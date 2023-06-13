@@ -7,12 +7,18 @@ body {
 }
 
 /* banner name at top */
-h1 {
+
+#name {
     font-size: 3em; 
     color:#33485e;
     text-align: center;
     text-transform: uppercase;
     font-weight: 400;
+    border-bottom: 1px solid #33485e;
+    width: 60%;
+    min-width: 300px;
+    margin: auto;
+
 }
 
 /* my title  */
@@ -24,31 +30,36 @@ strong {
 }
 
 /* section titles  */
-h2 {
+#sectionheader {
     font-size: 1.5em;
     background-color: #33485e;
     color: white;
     text-transform: uppercase;
     font-weight: 400;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    width: 70%;
+    min-width: 300px;
 }
 
 /* job titles  */
-h3 {
+#jobtitle {
     font-size: 1.5em;
-    font-weight: 600;
+    font-weight: bold;
 }
 
 /* job organization  */
-h4 {
-    font-size: 1.5em;
+#organization {
+    font-size: 1.25em;
     font-weight: 400;
 }
 
 /* job dates  */
-h5 {
+#dates {
     font-size: 1em;
     font-weight: 400;
     font-style: italic;
+    margin-top: 2px;
 }
 
 
