@@ -1,0 +1,55 @@
+#content {
+    margin: 0 auto;
+    width: 900px;
+}
+
+h1 {
+    font-family: helvetica, sans-serif;
+    font-size: 28px;
+}
+
+
+#byline {
+    font-family: Helvetica, sans-serif;
+    font-size: 14px;
+    font-style: italic;
+    }
+
+p {
+    font-family: Georgia, serif;
+    font-size: 13px;
+}
+
+blockquote {
+    display: block;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 25px;
+    font-style: italic;
+    color: rgb(147, 44, 21);
+    text-align: center;
+    background-position: center;
+    word-spacing: 3px;
+    border: 5px solid;
+    border-color:  rgb(88, 26, 12);
+    background-color: beige;
+}
+
+#captions {
+    font-size: 9px;
+    color: rgb(100, 100, 100);
+    font-style: italic;
+    font-family: Georgia, serif;
+    border-bottom: solid, black, 1px;
+    text-align: right;
+    padding-bottom: 15px;
+}
+
+#readmore {
+    font-size: 16px;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+
