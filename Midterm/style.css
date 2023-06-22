@@ -1,0 +1,92 @@
+#content {
+    margin: 0 auto;
+    width: 900px;
+}
+
+h1 {
+    font-family: helvetica, sans-serif;
+    font-size: 40px;
+    display: inline;
+}
+
+/* Tried being creative with the headline by styling the word 'style'*/
+h2  {
+    font-family: Bungee Shade;
+    font-size: 40px;
+    color: aquamarine;
+    -webkit-text-stroke-color: hotpink;
+    -webkit-text-stroke-width: 0.6px;
+    font-weight: bolder;
+    display:inline;
+}
+
+p {
+    font-family: helvetica, arial, sans-serif;
+    font-size: 14px;
+}
+
+#byline {
+    font-family: Helvetica, sans-serif;
+    font-size: 14px;
+    font-style: italic;
+    }
+
+.subheading {
+    font-family: helvetica, sans-serif;
+    font-size: 22px;  
+}
+
+.captions {
+font-size: 9px;
+color: rgb(100, 100, 100);
+font-style: italic;
+font-family: Georgia, serif;
+border-bottom: 1px solid;
+border-bottom-color: rgb(100, 100, 100);
+text-align: right;
+}
+
+blockquote {
+    display: block;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 25px;
+    font-style: italic;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    background-position: center;
+    word-spacing: 3px;
+    border: 5px solid;
+    border-color:  black;
+    background-color: rgba(76, 0, 130, 0.497);
+}
+
+#related {
+    border-top: 1px solid;
+    border-top-color:black ;
+    font-size: 16px;
+    font-style: italic;
+    font-family: helvetica, sans-serif;
+    text-align: center;
+}
+
+iframe {
+    float: left;
+    padding: 15px;
+    word-wrap: normal;
+}
+
+#bwpics {
+    align-items: center;
+}
+
+#pic3 {
+    float: right;
+    padding-left: 10px;
+}
+
+#deckhead {
+    font-family: helvetica, sans-serif;
+    color: gray;
+    font-size: 16px;
+}
