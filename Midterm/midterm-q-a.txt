@@ -72,7 +72,7 @@ In the body
 
 8.  In the space below, write the correct CSS code to target a DIV with a class of fruit.  Make the color of the text black (#000000).
 
-.apples {
+.fruit {
     color: #000000;
 }
 
